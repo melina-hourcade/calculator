@@ -1,6 +1,22 @@
 # Getting Started with Create React App
 
+
+the calculator works, but there are still errors with the connection to the database. 
+I tried with a DB internal to the project but also with firebase, 
+and I encountered problems with the update of firebase to v9
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
+
+
+
 
 ## Available Scripts
 
