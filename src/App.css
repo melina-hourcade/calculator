@@ -1,0 +1,47 @@
+body {
+  padding: 20px;
+  font: 1em Helvetica Neue, Helvetica, Arial, sans-serif;
+  height: 100vh;
+  
+
+}
+
+* {
+  box-sizing: border-box;
+-webkit-user-select: none;
+-webkit-user-drag: none;
+-webkit-app-region: none;
+}
+
+.mere {
+    border: 5px solid rgb(111,41,97);
+    border-radius: .5em;
+    padding: 1vh;
+    display: flex;
+    flex: 1;
+  
+
+}
+
+.mere2 {
+  border: 5px solid rgb(111,41,97);
+  border-radius: .5em;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.screen {
+  padding: 1vh;
+  width: 70vh;
+  border: 2px solid rgba(111,41,97,.5);
+  text-align: end;
+}
+
+.contenant {
+display: flex;
+}
+
+.contenu {
+  /* background-color: brown; */
+  flex: 1;
+}

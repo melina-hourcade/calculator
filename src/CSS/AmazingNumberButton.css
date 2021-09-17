@@ -1,0 +1,14 @@
+
+.btn, .btn-yellow {
+  padding: 20px;
+  background-color: rgba(111,41,97,.3);
+  border: 2px solid rgba(111,41,97,.5);
+  flex: 1 1 auto;
+}
+.btn-yellow {
+  background-color: coral;
+}
+
+.btn:hover {
+  background-color: crimson;
+}
