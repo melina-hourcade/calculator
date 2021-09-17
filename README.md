@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Calculator
 
 
 the calculator works, but there are still errors with the connection to the database. 
